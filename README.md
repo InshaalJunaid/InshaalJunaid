@@ -5,7 +5,7 @@ Welcome to my Data Engineering Learning Journey repository! I'm a Grade 10 stude
 
 <h4>Goals:</h4>
 * Learn Python: Mastering Python is the first step in my data engineering journey. I'll be exploring Python's capabilities for data manipulation, analysis, and visualization.
-* Understanding Databases: With a focus on MySQL, I aim to comprehend database management systems, querying data, and building efficient databases.
+ * Understanding Databases: With a focus on MySQL, I aim to comprehend database management systems, querying data, and building efficient databases.
 * Exploring AWS Services: Amazon Web Services (AWS) offers a plethora of services for data engineering. I'll be delving into AWS tools for storage, computation, and deployment.
 * Utilizing Libraries: I'll be experimenting with popular Python libraries such as Beautiful Soup for web scraping and Icecream for debugging, enhancing my data processing skills.
 <h4>Contents</h4>
